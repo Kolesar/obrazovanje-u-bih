@@ -19,11 +19,11 @@ Prema tom kurikulumu cjeline su podijeljene na slijedeći način (Dozvolili smo 
 - Njemački jezik
 - Talijanski jezik
 - Turski jezik
-- Matematika
+- [Matematika](matematika/README.md)
 - Priroda i društvo/Moja okolina
 - Priroda
 - Društvo
-- Biologija
+- [Biologija](biologija/README.md)
 - Hemija/Kemija
 - Fizika
 - Historija/Istorija/Povijest
