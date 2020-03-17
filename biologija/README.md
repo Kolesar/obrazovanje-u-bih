@@ -1,5 +1,7 @@
-[Početna](../../README.md)
+[Početna](../README.md)
+
 ---
+
 # Biologija
 ## UVOD
 Nastavni program biologije temelji se na osnovnim sadržajima biološke nauke i učenicima omogućava upoznavanje živog svijeta, a i zakonitosti koje u njemu vladaju. U 7. razredu učenici trebaju steći predstavu o razvoju živih bića na Zemlji i spoznati bogatstvo živog svijeta koje se očituje u raznolikosti vrsta. U 8. razredu posebna se pažnja posvećuje građi i funkcijama ljudskog organizma. Učenici potrebna predznanja stječu u nastavnom predmetu priroda u 5. i 6. razredu.
@@ -23,6 +25,8 @@ Izborne teme se uvrštavaju u nastavni plan i program pojedinog razreda dogovoro
 Redoslijed pojedinih tema moguće je mijenjati, ako učitelj prosudi da je to prikladnije za usvajanje predviđenih sadržaja.
 
 Pri obradi nastavnih tema valja uzeti u obzir zavičajne osobitosti. Pri obradi nastavnog gradiva, gdje god je to moguće, poželjno je primjenjivati praktičan rad. Preporučuje se koristiti Internet kao način dobijanja dodatnih obavijesti i podataka.
+
+---
 
 - [7. Razred](sedmi_razred/README.md)
 - 8. Razred

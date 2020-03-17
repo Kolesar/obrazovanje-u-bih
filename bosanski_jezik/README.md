@@ -1,5 +1,7 @@
-[Početna](../../README.md)
+[Početna](../README.md)
+
 ---
+
 # Bosanski jezik
 ## UVOD
 Bosanski jezik najopsežniji je predmet osnovnoškolskog obrazovanja. Nastava bosanskog jezika najuže je povezana sa svim ostalim predmetnim područjima jer se sva nastavna komunikacija  ostvaruje  bosanskim  jezikom.  Predmet  je zastupljen od prvoga do devetog razreda, a obuhvata četiri predmetne  sastavnice:
@@ -51,6 +53,8 @@ Zadaće nastavnog područja _medijska kultura_:
 - osposobljivanje za komunikaciju s medijima: pozorištem, filmom, radijem, štampom, stripom, računarom;
 - primanje (recepcija) pozorišne predstave, filma, radijske i televizijske emisije;
 - osposobljivanje za vrjednovanje radijskih i televizijskih emisija te filmskih ostvarenja.
+
+---
 
 - [1. Razred](prvi_razred/README.md)
 - 2. Razred

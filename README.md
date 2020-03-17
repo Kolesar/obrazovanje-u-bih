@@ -7,8 +7,8 @@ Za sada nismo uspjeli naći detaljan nastavni plan i program za bilo koji kanton
 Prema tom kurikulumu cjeline su podijeljene na slijedeći način (Dozvolili smo sebi da listu prilagodimo stanovništvu/obrazovnim sistemima u Bosni i Hercegovini):
 
 - [Bosanski jezik](bosanski_jezik/README.md)
-- Hrvatski jezik
-- Srpski jezik
+- [Hrvatski jezik](hrvatski_jezik/README.md)
+- [Srpski jezik](srpski_jezik/README.md)
 - Likovna kultura
 - Muzička/Glazbena kultura
 - Arapski jezik
@@ -24,7 +24,7 @@ Prema tom kurikulumu cjeline su podijeljene na slijedeći način (Dozvolili smo 
 - Priroda
 - Društvo
 - [Biologija](biologija/README.md)
-- Hemija/Kemija
+- [Hemija/Kemija](hemija/README.md)
 - Fizika
 - Historija/Istorija/Povijest
 - Geografija/Zemljopis

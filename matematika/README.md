@@ -1,5 +1,7 @@
 [Početna](../../README.md)
+
 ---
+
 # Matematika
 ## UVOD
 Osavremenjivanje plana i programa ima cilj naći kompromis između tradicionalnog i novih stajališta u nastavi matematike. Osnovna promjena je u tome da su iz programa izostavljeni sadržaji za čije uvođenje na nivou osnovne škole nema naučnog opravdanja, kao i dijelovi koji su neprimjereni mogućnostima i dobi učenika, a dodani su sadržaji koji se danas primjenjuju i prijeko su potrebni. Programski sadržaj matematike je izrađen na sljedećim načelima:
@@ -30,6 +32,8 @@ Učenik treba
 - osposobljavati za apstraktno mišljenje, logičko zaključivanje i precizno formulisanje pojmova,
 - razvijati osjećaj odgovornosti i kritičnosti prema svom i tuđem radu,
 - razvijati sposobnost za samostalni rad, odgovornost za rad, tačnost, urednost, sistematičnost, preciznost i konciznost u pisanom i usmenom izražavanju.
+
+---
 
 - [1. Razred](prvi_razred/README.md)
 - 2. Razred

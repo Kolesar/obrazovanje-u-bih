@@ -1,8 +1,8 @@
-[Početna](../../README.md) / [Bosanski jezik](../README.md)
+[Početna](../../README.md) / [Hrvatski jezik](../README.md)
 
 ---
 
-# Bosanski jezik
+# Hrvatski jezik
 ## Prvi razred (Razredna nastava)
 
 ### NASTAVNO PODRUČJE:
@@ -10,10 +10,10 @@
 
 _TEME_
 
-4. Početno pisanje štampanih slova (latinično pismo)
-**Ključni pojmovi**: veliko i malo štampano slovo; napisana riječ i rečenica; abeceda štampanih slova; zvučna i glasovna abeceda.
+4. Početno pisanje tiskanih slova (latinično pismo)
+**Ključni pojmovi**: veliko i malo štampano slovo; napisana riječ i rečenica; abeceda tiskanih slova; glasovna abeceda.
 
-**Obrazovna postignuća**: pisanje slova, riječi i rečenica velikim štampanim slovima
+**Obrazovna postignuća**: pisanje slova, riječi i rečenica velikim tiskovnim slovima
 
 [![ICT-AAC Pisalica](https://lh3.googleusercontent.com/vXDAP5FX_0eiO73mwhQPYCHsRLhryqrYkZlvm3sZxNu7Id8a2MrgewcHdMpEmuaCLheH=w1366-h642)](https://play.google.com/store/apps/details?id=hr.fer.ztel.ictaac.pisalica)
 

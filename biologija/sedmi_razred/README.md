@@ -1,5 +1,7 @@
-[Početna](../../README.md)/[Biologija](../README.md)
+[Početna](../../README.md) / [Biologija](../README.md)
+
 ---
+
 # Biologija
 ## Sedmi razred
 1. Pojava života na zemlji
