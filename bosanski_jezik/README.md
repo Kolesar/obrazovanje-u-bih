@@ -3,7 +3,9 @@
 ---
 
 # Bosanski jezik
+
 ## UVOD
+
 Bosanski jezik najopsežniji je predmet osnovnoškolskog obrazovanja. Nastava bosanskog jezika najuže je povezana sa svim ostalim predmetnim područjima jer se sva nastavna komunikacija  ostvaruje  bosanskim  jezikom.  Predmet  je zastupljen od prvoga do devetog razreda, a obuhvata četiri predmetne  sastavnice:
 - bosanski jezik,
 - književnost,
@@ -13,6 +15,7 @@ Bosanski jezik najopsežniji je predmet osnovnoškolskog obrazovanja. Nastava bo
 Prema načelu unutar predmetnog povezivanja zadaće i sadržaji svih predmetnih sastavnica međusobno se prožimaju i nadopunjuju, a prema načelu međupredmetnog  povezivanja funkcionalno se povezuju s ostalim nastavnim područjima.
 
 ## CILJ
+
 Temeljni je cilj nastave bosanskoga jezika osposobiti učenike za jezičku komunikaciju koja im omogućava savladavanje sadržajima svih nastavnih predmeta i uključivanje u cjeloživotno učenje. Ostvarivanje svrhe i zadaća nastave bosanskoga jezika uključuje ovladavanje standardnim jezikom, a pridonosi:
 - razvoju jezičko-komunikacionih sposobnosti pri govornoj i pisanoj upotrebi jezika u svim funkcionalnim stilovima;
 - razvoju literarnih sposobnosti, čitateljskih interesa i kulture;

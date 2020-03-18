@@ -3,14 +3,17 @@
 ---
 
 # Bosanski jezik
+
 ## Prvi razred (Razredna nastava)
 
 ### NASTAVNO PODRUČJE:
+
 **POČETNO ČITANJE I PISANJE**
 
 _TEME_
 
 4. Početno pisanje štampanih slova (latinično pismo)
+
 **Ključni pojmovi**: veliko i malo štampano slovo; napisana riječ i rečenica; abeceda štampanih slova; zvučna i glasovna abeceda.
 
 **Obrazovna postignuća**: pisanje slova, riječi i rečenica velikim štampanim slovima
@@ -20,10 +23,13 @@ _TEME_
 ---
 
 ### NASTAVNO PODRUČJE:
+
 **KNJIŽENOST**
 
 _TEME_
+
 5. Slikovnica
+
 **Ključni pojmovi**: slikovnica, slika, tekst.
 
 **Obrazovna postignuća**: sposnati i doživjeti (recepcija) kratke slikovnice, stilski i sadržajno primjerene djetetu; razlikovati slikovnicu od drugih knjiga zbog povezanosti slike i teksta.

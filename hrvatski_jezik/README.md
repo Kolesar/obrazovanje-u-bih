@@ -3,7 +3,9 @@
 ---
 
 # Hrvatski jezik
+
 ## UVOD
+
 Hrvatski jezik najopsežniji je predmet osnovnoškolskoga obrazovanja. Nastava hrvatskoga jezika najuže je povezana sa svim ostalim predmetnim područjima jer se sva nastavna komunikacija ostvaruje hrvatskim jezikom. Predmet je zastupljen od prvoga do devetoga razreda, a obuhvaća četiri predmetne sastavnice:
 - hrvatski jezik,
 - književnost,
@@ -13,6 +15,7 @@ Hrvatski jezik najopsežniji je predmet osnovnoškolskoga obrazovanja. Nastava h
 Prema načelu unutarpredmetnoga povezivanja zadaće i sadržaji svih predmetnih sastavnica međusobno se prožimaju i nadopunjuju, a prema načelu međupredmetnoga povezivanja funkcionalno se povezuju s ostalim nastavnim područjima.
 
 ## CILJ
+
 Temeljni je cilj nastave hrvatskoga jezika osposobiti učenike za jezičnu komunikaciju koja im omogućava savladavanje sadržajima svih nastavnih predmeta i uključivanje u cjeloživotno učenje. Ostvarivanje svrhe i zadaća nastave hrvatskoga jezika uključuje ovladavanje standardnim jezikom, a pridonosi:
 - razvoju jezičko-komunikacijskih sposobnosti pri govornoj i pisanoj uporabi jezika u svim funkcionalnim stilovima;
 - razvoju literarnih sposobnosti, čitateljskih interesa i kulture;

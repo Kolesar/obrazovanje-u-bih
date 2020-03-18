@@ -3,7 +3,9 @@
 ---
 
 # Matematika
+
 ## UVOD
+
 Osavremenjivanje plana i programa ima cilj naći kompromis između tradicionalnog i novih stajališta u nastavi matematike. Osnovna promjena je u tome da su iz programa izostavljeni sadržaji za čije uvođenje na nivou osnovne škole nema naučnog opravdanja, kao i dijelovi koji su neprimjereni mogućnostima i dobi učenika, a dodani su sadržaji koji se danas primjenjuju i prijeko su potrebni. Programski sadržaj matematike je izrađen na sljedećim načelima:
 - da učenicima u osnovnoj školi treba dati znanja koja su nužna svim učenicima nezavisno o izboru njihovog budućeg zanimanja;
 - da opseg, sadržaj i metode nastave treba uskladiti dobi učenika;
@@ -20,9 +22,11 @@ U nastavi matematike nema mnogo činjenica koje treba pamtiti i težište je rad
 Nastavni program naglašava primjenu matematike na koju treba gledati i kao na praktični, korisni predmet koji učenici moraju razumjeti i mogu znati primijeniti na razne probleme u svom okruženju. U radu s učenicima treba težiti upotrebi informacione i komunikacione tehnologije na temeljima savremene metodike nastave matematike.
 
 ## CILJ
+
 Cilj nastave matematike je stjecanje temeljnih matematičkih znanja potrebnih za razumijevanje pojava i zakonitosti u prirodi i društvu, stjecanje osnovne matematičke pismenosti i razvijanje sposobnosti i umijeća rješavanja matematičkih problema.
 
 ## ZADAĆE
+
 Učenik treba
 - naučiti matematički se izražavati pismeno i usmeno,
 - razviti vještinu pisanja, čitanja i uspoređivanja brojeva,
