@@ -1,3 +1,5 @@
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Ako imate bilo kakav materijal koji se veoma lijepo uklapa u kurikulum za određeni razred, molimo vas da nam pošaljete.
+
 # Pomoć roditeljima, djeci, ali i nastavnom osoblju kod odabira pravih alata i pomagala za učenje na daljinu
 
 Krizne situaciju zahtijevaju alternativna rješenja. Nekada ta alternativna rješenja budu tako dobra da se kasnije pretvore iz privremenih u trajna. Razvojem industrije i napretkom tehnike i tehnologije svakako se mijenjaju životi miliona ljudi širom svijeta. Nabolje, nadamo se. Toga smo svjedoci i mi sami u Bosni i Hercegovini. Iako se mnogo puta žalimo na to da smo veoma zaostala država i društvo, ipak moramo priznati da su rijetke kuće u kojima nema ako ne računar, a ono barem neki od pametnih uređaja - pametofon ili tablet. Ta industrijalizacija se mijenja kroz vrijeme i dobija nazive kroz nekakve generacije. Sada smo u tzv. Industrija 4.0, a što po analogiji odmah i obrazovanje dobija svoje ime [Obrazovanje 4.0](https://medium.com/@asim.husanovic/kako-industrijska-revolucija-4-0-uti%C4%8De-na-visoko-obrazovanje-c8a11d14e31b)
